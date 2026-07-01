@@ -1,0 +1,146 @@
+[
+  {
+    "model": "equivariant",
+    "n_train": 6,
+    "seed": 0,
+    "best_test": 0.4
+  },
+  {
+    "model": "baseline",
+    "n_train": 6,
+    "seed": 0,
+    "best_test": 0.425
+  },
+  {
+    "model": "equivariant",
+    "n_train": 12,
+    "seed": 0,
+    "best_test": 0.4625
+  },
+  {
+    "model": "baseline",
+    "n_train": 12,
+    "seed": 0,
+    "best_test": 0.4125
+  },
+  {
+    "model": "equivariant",
+    "n_train": 20,
+    "seed": 0,
+    "best_test": 0.5375
+  },
+  {
+    "model": "baseline",
+    "n_train": 20,
+    "seed": 0,
+    "best_test": 0.425
+  },
+  {
+    "model": "equivariant",
+    "n_train": 30,
+    "seed": 0,
+    "best_test": 0.475
+  },
+  {
+    "model": "baseline",
+    "n_train": 30,
+    "seed": 0,
+    "best_test": 0.4875
+  },
+  {
+    "model": "equivariant",
+    "n_train": 6,
+    "seed": 1,
+    "best_test": 0.4625
+  },
+  {
+    "model": "baseline",
+    "n_train": 6,
+    "seed": 1,
+    "best_test": 0.3875
+  },
+  {
+    "model": "equivariant",
+    "n_train": 12,
+    "seed": 1,
+    "best_test": 0.3875
+  },
+  {
+    "model": "baseline",
+    "n_train": 12,
+    "seed": 1,
+    "best_test": 0.4125
+  },
+  {
+    "model": "equivariant",
+    "n_train": 20,
+    "seed": 1,
+    "best_test": 0.5
+  },
+  {
+    "model": "baseline",
+    "n_train": 20,
+    "seed": 1,
+    "best_test": 0.4375
+  },
+  {
+    "model": "equivariant",
+    "n_train": 30,
+    "seed": 1,
+    "best_test": 0.4875
+  },
+  {
+    "model": "baseline",
+    "n_train": 30,
+    "seed": 1,
+    "best_test": 0.475
+  },
+  {
+    "model": "equivariant",
+    "n_train": 6,
+    "seed": 2,
+    "best_test": 0.2875
+  },
+  {
+    "model": "baseline",
+    "n_train": 6,
+    "seed": 2,
+    "best_test": 0.4875
+  },
+  {
+    "model": "equivariant",
+    "n_train": 12,
+    "seed": 2,
+    "best_test": 0.45
+  },
+  {
+    "model": "baseline",
+    "n_train": 12,
+    "seed": 2,
+    "best_test": 0.55
+  },
+  {
+    "model": "equivariant",
+    "n_train": 20,
+    "seed": 2,
+    "best_test": 0.3625
+  },
+  {
+    "model": "baseline",
+    "n_train": 20,
+    "seed": 2,
+    "best_test": 0.5375
+  },
+  {
+    "model": "equivariant",
+    "n_train": 30,
+    "seed": 2,
+    "best_test": 0.4875
+  },
+  {
+    "model": "baseline",
+    "n_train": 30,
+    "seed": 2,
+    "best_test": 0.4875
+  }
+]
